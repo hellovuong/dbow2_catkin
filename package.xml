@@ -3,7 +3,7 @@
   <name>dbow2_catkin</name>
   <version>0.0.1</version>
   <description>DBoW2 catkin wrapper</description>
-  <maintainer email="mabate@mit.edu">Marcus Abate</maintainer>
+  <maintainer email="h.vuong@itmo.ru">Long Vuong</maintainer>
 
   <license>MIT</license>
 
