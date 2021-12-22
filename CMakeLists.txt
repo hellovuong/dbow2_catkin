@@ -10,7 +10,7 @@ file(MAKE_DIRECTORY ${CATKIN_DEVEL_PREFIX}/include)
 
 ExternalProject_Add(dbow2_src
   GIT_REPOSITORY https://github.com/hellovuong/DBoW2.git
-  GIT_TAG master
+  GIT_TAG origin/opencv4
   UPDATE_COMMAND ""
   #PATCH_COMMAND ""
   CONFIGURE_COMMAND  cd ../dbow2_src &&
